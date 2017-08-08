@@ -1,0 +1,2 @@
+Language: C
+Des: creata a struct called 'listed' function as a list.
