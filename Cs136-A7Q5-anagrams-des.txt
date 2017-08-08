@@ -1,0 +1,2 @@
+Language: C
+Des: return the number of anagram pairs in the array.
