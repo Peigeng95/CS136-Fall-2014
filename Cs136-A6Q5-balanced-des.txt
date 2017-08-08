@@ -1,0 +1,5 @@
+Language: C
+Des: 	returns true if str is balanced, otherwise false. str is balanced if
+		every parenthesis is closed in the reverse order that it is opened. '('
+		is an opening parenthesis and ')' is a closing parenthesis. Other chars
+		in str are ignored.
