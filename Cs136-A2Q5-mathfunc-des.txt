@@ -1,2 +1,2 @@
 Language: C
-Des: Convert some math functions in scheme to C++.
+Des: Convert some math functions in scheme to C.
