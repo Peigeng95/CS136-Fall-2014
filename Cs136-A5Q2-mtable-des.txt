@@ -1,2 +1,2 @@
-Language: C++
+Language: C
 Des: Prints a multiplication table with w columns and h rows. Each row must be exactly 6*(w+1) characters wide, followed by a newline.
