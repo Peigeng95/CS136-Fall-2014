@@ -1,0 +1,2 @@
+Language: C
+Des: Struct 'enode' is either a opreator '+','-','*','/'or a number. this tree struct can simulate an equation.
