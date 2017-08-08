@@ -1,0 +1,2 @@
+Language: C
+Des:  O(logn) exp function.
