@@ -1,2 +1,2 @@
-Language: C++
+Language: C
 Des:Function to find whether a number is a power of another number.
