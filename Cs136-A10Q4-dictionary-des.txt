@@ -1,0 +1,2 @@
+Language: C
+Des: an ADT for storing a Dictionary of void *'s
