@@ -1,2 +1,2 @@
-Language: C++
+Language: C
 Des: Determines the absolute offset from one letter to the other, if one of them are not letter provide -1
