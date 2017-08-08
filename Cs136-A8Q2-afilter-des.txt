@@ -1,0 +1,2 @@
+Language: C
+Des: modifies the dynamic array da by removing all elements where f(element) is false
