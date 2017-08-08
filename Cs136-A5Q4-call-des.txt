@@ -1,0 +1,2 @@
+Language: C
+Des: For each character of input, program print the character, UNLESS it is one of the special upper-case letters, in which case the corresponding number will be printed.
