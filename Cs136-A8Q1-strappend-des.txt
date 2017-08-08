@@ -1,0 +1,2 @@
+Language: C
+Des: returns a NEW string that concatnet two strings s1 and s2 in form 's1s2'.
