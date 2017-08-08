@@ -1,0 +1,2 @@
+Language: C
+Des: a simple module for converting a file to a StrQueue
