@@ -1,0 +1,2 @@
+Language: C
+Des: a Count is an ADT for storing the count (number of occurrences) of an integer within a sequence.
