@@ -1,0 +1,2 @@
+Language: C++
+Des:Given a Uwaterloo student number,eight digits number, sums the digits and returns if a certain condition holds.
