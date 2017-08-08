@@ -1,0 +1,2 @@
+Language: C++
+Des: returns true if the sum of the first and last digit of n is equal to the sum of the second and second last digit of n and is equal to ... and so on; false otherwise.
