@@ -1,2 +1,2 @@
-Language: C++
+Language: C
 Des: Working with rational numbers
