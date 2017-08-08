@@ -1,0 +1,2 @@
+Language: C
+Des: Implementing intseq.h with pointer arithmetic.
