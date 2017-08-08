@@ -1,0 +1,2 @@
+Language: C
+Des: check if there exist a subset with members that have a sum is a perdutilar number
