@@ -1,0 +1,2 @@
+Language: C++
+Des: Implements the interface for working with squared numbers from squarenum.h
